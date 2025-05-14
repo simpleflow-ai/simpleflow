@@ -1,3 +1,7 @@
+# New Home!
+
+## This project has been moved to: https://github.com/dialogflowai/dialogflow
+
 [简体中文](./README_zh-CN.md) | English
 
 # Dialog flow chat bot
